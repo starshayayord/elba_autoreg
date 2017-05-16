@@ -1,5 +1,5 @@
 # elba_autoreg
-##Installation
+## Installation
 * Clone  script and html-email from repository;
 * Create cron-task to run this script periodically
 ```sh
